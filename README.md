@@ -1,9 +1,10 @@
 # Hi, My name is Adriano! 👍🏽
 
 [![Github Badge](https://img.shields.io/badge/-AdrianoAntoniev-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AdrianoAntoniev)](https://github.com/AdrianoAntoniev)
-[![Linkedin Badge](https://img.shields.io/badge/-adrianorodriguesvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianorodriguesvieira/)](https://www.linkedin.com/in/adrianorodriguesvieira/)
-[![Twitter Badge](https://img.shields.io/badge/-adrianoingo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrianoingo)](https://twitter.com/adrianoingo)
-[![StackOverflow Badge](https://img.shields.io/badge/-adrianoingo-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/15342909/adrianoingo?tab=profile)
+<br>[![Linkedin Badge](https://img.shields.io/badge/-adrianorodriguesvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianorodriguesvieira/)](https://www.linkedin.com/in/adrianorodriguesvieira/)
+<br>[![Twitter Badge](https://img.shields.io/badge/-adrianoingo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adrianoingo)](https://twitter.com/adrianoingo)
+<br>[![StackOverflow Badge](https://img.shields.io/badge/-adrianoingo-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/15342909/adrianoingo?tab=profile)
+<br>[![GitHub followers](https://img.shields.io/github/followers/AdrianoAntoniev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AdrianoAntoniev?tab=followers)
 
 
 ### About me
@@ -13,6 +14,7 @@
 - I have a postdegree in Technologies for web applications.  👨🏽‍🎓
 - I have a passion for music, and games.  🎻🎮
 - I like coffee.  ☕️
+
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
