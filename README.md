@@ -8,7 +8,7 @@
 
 
 ### About me
-- I'm a **mobile** developer!.  📱👨🏽‍💻
+- I'm a **mobile** developer!  📱👨🏽‍💻
 - I'm studying **Swift** but I like Java and Python too.  💻
 - I have a degree in System and Development Analysis.  👨🏽‍🎓
 - I have a postdegree in Technologies for web applications.  👨🏽‍🎓
