@@ -11,12 +11,14 @@
 
 
 ### About me
-- I'm a **mobile** developer!  📱👨🏽‍💻
-- I'm studying **Swift** but I like Java and Python too.  💻
+- I am christian and I love God (Jesus saved me 😇)
+- I'm a **iOS**  developer at [GFT](https://www.gft.com/br/pt) !  📱👨🏽‍💻
 - I have a degree in System and Development Analysis.  👨🏽‍🎓
 - I have a postdegree in Technologies for web applications.  👨🏽‍🎓
 - I have a passion for music, and games.  🎻🎮
-- I like coffee.  ☕️
+- I like coffee ☕️ - a lot 🤷🏻‍♂️
+- I am [House M.D.](https://house.fandom.com/wiki/House,_M.D.) fan 🥰
+- I am rookie at [Chess.com](https://www.chess.com/member/adamastah).
 
 
 <details>
