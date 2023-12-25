@@ -12,7 +12,7 @@
 
 ### About me
 - I am christian and I love God (Jesus saved me 😇)
-- I'm a **iOS**  developer at [BTG]([https://www.gft.com/br/pt](https://www.btgpactual.com/)) !  📱👨🏽‍💻
+- I'm a **iOS**  developer at [BTG Pactual](https://www.btgpactual.com/) !  📱👨🏽‍💻
 - I have a degree in System and Development Analysis.  👨🏽‍🎓
 - I have a postdegree in Technologies for web applications.  👨🏽‍🎓
 - I have a passion for music, and games.  🎻🎮
